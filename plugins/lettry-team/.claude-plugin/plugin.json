@@ -1,0 +1,7 @@
+{
+  "name": "lettry-team",
+  "version": "1.0.0",
+  "description": "Đội 14 agent, skill /team điều phối và hook guard/quality-gate dùng chung cho các repo Lettry (Auth-center, PropOS – CDE, HCG Report).",
+  "author": { "name": "helloquocbao" },
+  "repository": "https://github.com/helloquocbao/lettry-kit"
+}

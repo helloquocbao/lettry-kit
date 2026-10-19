@@ -1,0 +1,13 @@
+{
+  "name": "lettry-kit",
+  "owner": { "name": "helloquocbao" },
+  "metadata": { "description": "Bộ công cụ Claude Code dùng chung cho các repo Lettry." },
+  "plugins": [
+    {
+      "name": "lettry-team",
+      "source": "./plugins/lettry-team",
+      "description": "14 agent, skill /team, hook guard + quality gate.",
+      "version": "1.0.0"
+    }
+  ]
+}
