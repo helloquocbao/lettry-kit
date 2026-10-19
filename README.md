@@ -4,7 +4,7 @@ Bộ công cụ Claude Code dùng chung cho các repo của hệ Lettry:
 
 | Repo | Vai trò |
 | --- | --- |
-| [magic-authen](https://github.com/helloquocbao/magic-authen) | Auth-center (Magic ID): trung tâm xác thực, quyết ai **được mở** ứng dụng nào |
+| [magic-authen](https://github.com/helloquocbao/magic-authen) | Auth-center (HCG ID): trung tâm xác thực, quyết ai **được mở** ứng dụng nào |
 | [props-os](https://github.com/helloquocbao/props-os) | PropOS – CDE: dữ liệu dự án bất động sản phía Chủ đầu tư |
 | [hcg-report](https://github.com/helloquocbao/hcg-report) | HCG Report: báo cáo tài chính (import sổ 111/112, dòng tiền, khoá kỳ) |
 
