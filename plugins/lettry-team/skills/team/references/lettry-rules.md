@@ -1,4 +1,4 @@
-# Quy tắc chung của hệ ứng dụng Lettry
+# Quy tắc chung của hệ ứng dụng HCG
 
 Áp dụng cho mọi repo trong hệ: **Auth-center** (trung tâm xác thực, Magic ID),
 **PropOS – CDE**, **HCG Report** và các ứng dụng thêm sau. `CLAUDE.md` của từng repo thắng

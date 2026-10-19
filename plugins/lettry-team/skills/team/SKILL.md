@@ -1,6 +1,6 @@
 ---
 name: team
-description: Chạy đội agent Lettry cho một ý tưởng, tính năng, lỗi, review hoặc triển khai — phân loại, trình kế hoạch, giao đúng agent, lưu hồ sơ bàn giao. Dùng khi người dùng gõ /team hoặc giao một việc nhiều bước cần nhiều vai trò.
+description: Chạy đội agent HCG cho một ý tưởng, tính năng, lỗi, review hoặc triển khai — phân loại, trình kế hoạch, giao đúng agent, lưu hồ sơ bàn giao. Dùng khi người dùng gõ /team hoặc giao một việc nhiều bước cần nhiều vai trò.
 argument-hint: <ý tưởng / yêu cầu / mô tả lỗi>
 ---
 

@@ -1,6 +1,6 @@
 # lettry-kit
 
-Bộ công cụ Claude Code dùng chung cho các repo của hệ Lettry:
+Bộ công cụ Claude Code dùng chung cho các repo của hệ HCG:
 
 | Repo | Vai trò |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Hướng dẫn cho người mới: clone và dev hệ Lettry
+# Hướng dẫn cho người mới: clone và dev hệ HCG
 
 Hệ gồm 3 repo độc lập, cùng đăng nhập qua một trung tâm xác thực:
 
@@ -38,7 +38,7 @@ Clone **cạnh nhau trong cùng một thư mục cha** và **đặt đúng tên 
 dụng con đọc `../Auth-center/docs/contracts/application-icon-names.json`.
 
 ```bash
-mkdir lettry && cd lettry
+mkdir HCG-repo && cd HCG-repo
 git clone git@github.com:helloquocbao/magic-authen.git Auth-center
 git clone git@github.com:helloquocbao/props-os.git Propos-cde
 git clone git@github.com:helloquocbao/hcg-report.git HCG-Report

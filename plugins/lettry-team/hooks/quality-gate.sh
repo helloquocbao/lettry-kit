@@ -37,7 +37,7 @@ for ts in $(printf '%s\n' "$files" | grep -E '\.(ts|tsx)$' | while read -r f; do
   fi
 done
 
-# Quy tắc Lettry: cấm icon của Ant Design, bắt buộc Heroicons (xem skills/team/references/lettry-rules.md).
+# Quy tắc HCG: cấm icon của Ant Design, bắt buộc Heroicons (xem skills/team/references/lettry-rules.md).
 antd=$(printf '%s\n' "$files" | grep -E '\.(ts|tsx|js|jsx)$' | while read -r f; do
   grep -nE "from ['\"]@ant-design/icons['\"]|require\(['\"]@ant-design/icons['\"]\)" "$f" 2>/dev/null | sed "s|^|$f:|" | head -3
 done | head -20)
